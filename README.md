@@ -1,4 +1,4 @@
-<img src="https://github.com/Deepak12kumar12/Deepak12kumar/blob/main/Github%20Banner.png" width="650" />
+<img src="https://github.com/Deepak12kumar12/Deepak12kumar/blob/main/Github%20Banner.png" width="1000" height="420"/>
 <h1 align="center">Hi 👋, I'm Deepak Kumar Singh</h1>
 <h3 align="center">Computer Science Student | Passionate About Web Development & DevOps</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/laptop-with-program-code-isometric-icon-software-development-programming-applications-dark-neon_39422-971.jpg?semt=ais_hybrid&w=740&q=80">
